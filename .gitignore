@@ -1,6 +1,5 @@
-api_key.py
+headers.py
 examples.sh
 junk.py
-__pycache__/api_key.cpython-39.pyc
+__pycache__/*
 .idea
-
