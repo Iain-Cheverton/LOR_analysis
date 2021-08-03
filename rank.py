@@ -1,4 +1,4 @@
-"""Contains command relating to the masters leaderboard for Legends of Runeterra"""
+"""Contains functions relating to the masters leaderboard for Legends of Runeterra"""
 import json
 
 import requests
@@ -7,7 +7,7 @@ from headers import HEADERS
 
 
 def rank(username: str, region: str):
-    """attempts to find the rank and LP of a given player"""
+    """Attempts to find the rank and LP of a given player"""
     response = requests.get(
         f"https://{region}.api.riotgames.com/lor/ranked/v1/leaderboards",
         headers=HEADERS,
@@ -20,7 +20,7 @@ def rank(username: str, region: str):
 
 
 def get_rank(rank_number: int, region: str):
-    """returns the player and LP for a given rank"""
+    """Returns the player and LP for a given rank"""
     response = requests.get(
         f"https://{region}.api.riotgames.com/lor/ranked/v1/leaderboards",
         headers=HEADERS,
@@ -30,5 +30,6 @@ def get_rank(rank_number: int, region: str):
     return f"{player['name']} is rank {rank_number} and their LP is {player['lp']}"
 
 
-print(rank("alanzq", "europe"))
-print(get_rank(1, "americas"))
+if __name__ == "__main__":
+    print(rank("alanzq", "europe"))
+    print(get_rank(1, "americas"))
