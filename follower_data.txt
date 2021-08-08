@@ -1,0 +1,385 @@
+Ravenous Butcher	0	3	2
+Pesky Specter	0	1	1
+Caustic Cask	0	0	1
+Baccai Reaper	1	1	2
+Crusty Codger	1	2	4
+Fleetfeather Tracker	1	2	1
+Hapless Aristocrat	1	1	1
+Crimson Bloodletter	1	1	2
+Astute Academic	1	1	2
+Precious Pet	1	2	1
+Barkbeast	1	1	1
+Cithria of Cloudfield	1	2	2
+Jagged Butcher	1	2	2
+Penitent Squire	1	2	2
+Solari Soldier	1	2	2
+Sparring Student	1	1	1
+Blade Squire	1	2	1
+Destined Poro	1	1	1
+Mageseeker Conservator	1	1	1
+Warden's Prey	1	1	1
+The Flight	1	2	1
+Prowling Cutthroat	1	1	1
+Bloodthirsty Marauder	1	3	1
+Affectionate Poro	1	1	1
+Crackshot Corsair	1	1	2
+Legion Saboteur	1	2	1
+Yeti Yearling	1	1	2
+Plucky Poro	1	1	1
+Daring Poro	1	1	1
+Shadow Apprentice	1	1	1
+Sinister Poro	1	1	1
+Dunekeeper	1	2	1
+Pool Shark	1	1	2
+Gift Giver	1	1	2
+Shellshocker	1	2	1
+Lunari Duskbringer	1	2	1
+Navori Bladescout	1	2	1
+Draven's Biggest Fan	1	2	1
+Flower Child	1	1	2
+Greengalde Caretaker	1	1	2
+Inspiring Mentor	1	2	1
+Oblivious Islander	1	2	1
+Stygian onlooker	1	2	1
+Zaunite Urchin	1	2	1
+Pix!	1	0	2
+Unscarred Reaver	1	0	3
+Armed Gearhead	1	1	1
+Shadow Fiend	1	4	3
+Legion Rearguard	1	3	1
+Porofly	1	1	1
+Omen Hawl	1	1	1
+Lonely Poro	1	1	1
+Dreg Dredgers	1	1	1
+Nimble Poro	1	1	1
+Plunder Poro	1	1	1
+Spacey Sketcher	1	1	1
+Dragon Chow	1	0	3
+Star Shepherd	1	0	3
+Boxtopus	2	3	4
+Stalking Wolf	2	3	2
+Starlit Seer	2	2	3
+Arachnoid Horror	2	3	2
+Ballistic Bot	2	1	3
+Greenglade Duo	2	2	1
+Eye of the Dragon	2	1	3
+Mountain Goat	2	3	2
+Navori Conspirator	2	2	2
+Legion Drummer	2	3	2
+Crimson Disciple	2	2	3
+Vanguard Defender	2	2	2
+Arena Battlecaster	2	2	2
+Mask Mother	2	2	2
+Mistwraith	2	2	2
+Tyari the Traveler	2	2	2
+Chempunk Pickpocket	2	3	2
+Ruthless Raider	2	3	1
+Legion Grenadier	2	3	2
+War Chefs	2	2	2
+Mageseeker Persuader	2	3	2
+Young Witch	2	1	1
+Startled Stomper	2	2	3
+Stirred Spirits	2	3	2
+Sparklefly	2	1	2
+Arena Bookie	2	2	2
+Hired Gun	2	2	3
+Keeper of Masks	2	2	3
+Aspiring Chronomancer	2	2	3
+Black Rose Spy	2	3	2
+Brightsteel Protector	2	3	2
+Claws of the Dragon	2	3	2
+Dragonguard Lieutenant	2	3	2
+Fortune Croaker	2	2	3
+Honored Lord	2	3	2
+Imperial Demolitionist	2	2	3
+Jagged Taskmaster	2	3	2
+Lunari Shadestalker	2	2	3
+Patched Porobot	2	2	3
+Poro Herder	2	2	3
+Solari Shieldbearer	2	3	2
+Soul Shepherd	2	2	3
+Veteran Investigator	2	3	2
+Thorny Toad	2	1	4
+Herald of Spring	2	2	2
+Intrepid Mariner	2	1	3
+Trifarrian Gloryseeker	2	5	1
+Avarosan Sentry	2	2	1
+Feral Mystic	2	2	2
+Boomcrew Rookie	2	1	3
+Golden Narwhal	2	2	3
+House Spider	2	2	2
+Clump of Whumps	2	2	2
+Dreadway Deckhand	2	2	2
+Battlesmith	2	2	2
+Crimson Aristocrat	2	2	2
+Starry Scamp	2	2	2
+Vanguard Lookout	2	1	4
+Academy Prodigy	2	3	1
+Fae Bladetwirler	2	1	3
+Greenglade Lookout	2	2	1
+Egghead Researcher	2	1	3
+Runeweaver	2	3	1
+Rock Hopper	2	3	1
+Fading Icon	2	3	1
+Troll Scavenger	2	1	3
+Icevale Archer	2	3	1
+The Sky Shadows	2	3	1
+Stony Suppressor	2	1	3
+Sea Scarab	2	1	2
+Silent Shadowseer	2	3	1
+Cursed Keeper	2	1	1
+Navori Highwayman	2	1	2
+Coral Creatures	2	1	2
+Eager Apprentice	2	2	1
+Black Market Merchant	2	2	1
+Flame Chompers	2	0	2
+Herald of Dragons	2	1	1
+Evershade Stalker	2	2	2
+Faces of the Old Ones	2	0	2
+Shark Chariot	2	3	1
+Solitary Monk	3	3	3
+Iron Ballista	3	4	3
+Laurent Protege	3	2	4
+Mentor of the Stones	3	1	1
+Crimson Curator	3	3	3
+Iron Harbinger	3	2	4
+Rimefanf Wolf	3	3	2
+Amateur Aeronaut	3	2	3
+Scarthane Steffen	3	2	4
+Tasty Faefolk	3	4	2
+Devoted Council	3	1	6
+Esteemed Hierophant	3	3	4
+Loyal Badgerbear	3	3	4
+Patrol Wardens	3	4	3
+Sump Dredger	3	4	3
+Crescent Guardian	3	3	3
+Mighty Poro	3	3	3
+Legion Marauder	3	3	2
+Frenzied Skitterer	3	3	2
+Puffcap Peddler	3	3	3
+Senna, Sentinel of Light	3	4	2
+Greenfang Warden	3	2	2
+Lounging Lizard	3	3	5
+Mageseeker Investigator	3	3	3
+Golden Crushbot	3	2	5
+Jaull Hunters	3	4	1
+Deadbloom Wanderer	3	3	2
+Avarosan Trapper	3	3	3
+Vanguard Sergeant	3	3	3
+Spring Guardian	3	3	3
+Xenotype Researchers	3	3	3
+Vanguard Redeemer	3	3	3
+Dawnspeakers	3	1	4
+Khahiri the Student	3	3	3
+Kindly Tavernkeeper	3	3	3
+Rivershaper	3	2	2
+Reckless Trifarian	3	5	4
+Nyandroid	3	1	3
+Fuzzy Caretaker	3	3	2
+Monkey Idol	3	0	5
+Parade Electrorog	3	2	4
+Scales of the Dragon	3	4	2
+Laurent Duelist	3	4	2
+Sai Scout	3	2	4
+Assembly Bot	3	1	1
+Emerald Awakener	3	2	2
+Slotbot	3	1	4
+Used Cask Salesman	3	3	2
+Scribe of Sorrows	3	2	3
+SoulSpinner	3	3	2
+Arachnoid Sentry	3	3	2
+Doombeast	3	3	2
+Thorn of the Rose	3	5	1
+Shadow Assassin	3	1	2
+Trevor Snoozebottom	3	0	3
+Fledgling Stellacorn	3	1	2
+Darkwater Scourge	3	5	5
+Giddy Sparkleologist	3	2	2
+Scaled Snapper	3	2	2
+Ember Maiden	3	3	2
+Bubble Bear	3	0	6
+Greenglade Elder	3	3	1
+Avarosan Marksman	3	3	1
+Petty Officer	3	3	1
+Wyrding Stones	3	0	3
+Phantom Prankster	3	0	3
+The Undying	3	2	2
+Blighted Caretaker	3	2	1
+Lunari Priestess	3	2	1
+Solari Priestess	3	1	2
+Ancient Crocolith	4	7	7
+Brash Gambler	4	4	5
+Hunting Fleet	4	6	6
+Grizzled Ranger	4	3	1
+Crimson Awakener	4	5	5
+Legion Veteran	4	4	5
+Whiteflame Protector	4	4	4
+Laurent Chevalier	4	3	2
+Bull Elnuk	4	4	5
+Solari Sunforger	4	5	4
+Brutal Hunter	4	3	3
+Sandcrafter	4	3	5
+Ren Shadowblade	4	3	3
+Wolfrider	4	4	3
+Callous BoneCrusher	4	6	3
+Voice of the Risen	4	3	4
+The Beast Below	4	4	4
+Field Musicians	4	1	4
+Crystal Ibex	4	4	4
+Gallant Rider	4	4	4
+Insightful Investigator	4	3	3
+Vanguard Firstblade	4	2	2
+Swole Squirrel	4	3	4
+Silverwing Diver	4	2	3
+Troll Ravager	4	3	5
+Baccai Sandspinner	4	5	3
+Eminent Benefactor	4	3	3
+Broadbacked Protector	4	2	7
+Mageseeker Inciter	4	4	3
+Kinkou Lifeblade	4	2	2
+Shrieking Spinner	4	2	5
+Island Navigator	4	2	4
+Chump Whump	4	4	3
+Sumpsnipe Scavenger	4	4	3
+Basilisk Rider	4	4	3
+Stargazer	4	3	4
+Wraithcaller	4	4	3
+Avarosan Outriders	4	3	3
+Shiraza the Blade	4	3	3
+The Fangs	4	3	2
+Babbling Bjerg	4	3	3
+Chronicler of Ruin	4	3	3
+Fae Guide	4	3	3
+Vanguard Bannerman	4	3	3
+Vanguard Squire	4	3	3
+Yordle Grifter	4	3	3
+Zap Sprayfin	4	2	2
+Professor Von Yipp	4	2	3
+Desert Naturalist	4	2	4
+Funsmith	4	1	3
+Back Alley Barkeep	4	3	2
+Golden Ambassador	4	3	2
+Kinkou Wayfinder	4	2	3
+Laurent Bladekeeper	4	2	3
+Mountain Scryer	4	2	3
+Silverwing Vanguard	4	2	1
+Mystifying Magician	4	2	2
+Spirit Leech	4	4	1
+CityBreaker	4	0	5
+Shady Character	4	1	3
+Crowd Favorite	4	2	1
+Screeching Dragon	5	4	5
+Ruin Runner	5	6	4
+Swiftwing Lancer	5	5	4
+Trifarian Shieldbearer	5	6	5
+Scarmaiden Reaver	5	4	5
+Fused Firebrand	5	5	5
+Kato the Arm	5	5	4
+Greathorn Companion	5	5	5
+Rampaging Baccai	5	4	6
+Vanguard Cavalry	5	5	5
+Wrathful Rider	5	7	3
+Jack, the Winner	5	5	5
+Tortured Prodigy	5	4	4
+Inspiring Marshal	5	4	6
+Tarkaz the Tribeless	5	5	8
+The Cloven Way	5	5	4
+Slippery Waverider	5	4	4
+Yusari	5	4	3
+Abyssal Eye	5	3	3
+Legion General	5	4	4
+Mechanized Mimic	5	3	4
+Razorscale Hunter	5	4	4
+Avarosan Hearthguard	5	5	5
+Rahvun, Daylight's Spear	5	5	5
+Rimetusk Shaman	5	3	3
+Ursine Spiritwalker	5	4	6
+Neverglade Collector	5	2	4
+Mountain Sojourners	5	2	5
+Radiant Guardian	5	4	5
+Draklorn Inquisitor	5	4	5
+Resplendent Stellacorn	5	4	5
+Sneaky Zeebles	5	3	3
+Unstable Voltician	5	4	4
+Duskrider	5	2	5
+Jeweled Protector	5	4	4
+Midenstokke Henchmen	5	5	3
+Arachnoid Host	5	5	3
+Moondreamer	5	3	5
+Trifarian Assessor	5	4	3
+Ethereal Remitter	5	4	3
+Subpurrsible	5	1	5
+Chempunk Shredder	5	5	2
+Troop of Elnuks	5	3	3
+Cithria the Bold	6	6	6
+Alpha Wildclaw	6	7	6
+Battering Ram	6	4	12
+Scarmother Vrynna	6	3	8
+Armored Tuskrider	6	6	5
+Genevieve Elmheart	6	5	4
+Towering Stonehorn	6	7	7
+Augur of the Old Ones	6	5	5
+Minotaur Reckoner	6	6	6
+Horns of the Dragon	6	4	6
+Chief Mechanist Zevi	6	5	6
+Inviolus Vox	6	5	6
+Aurok Glinthorn	6	6	6
+Soulgorger	6	3	7
+Sheriff Lariette Rose	6	6	5
+Khahiri the Returned	6	4	4
+Jae Medarda	6	4	4
+Wise Fry	6	3	8
+Citrus Courier	6	4	5
+Cloud Drinker	6	3	5
+Sun Guardian	6	4	3
+Devourer of the Depths	6	4	4
+Heart of the Fluft	6	4	4
+Zephyr Sage	6	4	4
+Cygnus the Moonstakler	6	5	3
+Dragonguard Lookout	6	3	5
+Arrel the Tracker	6	2	5
+Augmented Experimenter	6	3	3
+Wiggly Burblefish	6	3	1
+Raz Bloodmane	7	6	6
+Savage Reckoner	7	7	4
+Stalking Broodmother	7	6	6
+Eclipse Dragon	7	7	7
+The Empyrean	7	6	5
+Basilisk Bloodseeker	7	7	4
+Ancient Yeti	7	5	5
+The Etherfiend	7	6	4
+The Syren	7	3	7
+Yone, Windchaser	7	6	6
+Shipwreck Hoarder	7	7	5
+Overgrown Snapvine	7	5	3
+King Jarvan III	7	3	6
+Icy Yeti	7	5	5
+Smooth Soloist	7	3	4
+Windfarer Hatchling	7	4	2
+The Rekindler	7	4	4
+They Who Endure	7	1	1
+Uzgar the Ancient	8	7	7
+Captain Farron	8	8	8
+Terror of the Tides	8	6	5
+The Leviathan	8	5	8
+Tianna Crownguard	8	8	8
+Grandfather Rumul	8	8	4
+The Infinite Mindsplitter	8	8	8
+Sanctum Conservator	8	8	5
+It That Stares	8	8	8
+Rhaza the Sundered	8	7	5
+Captain Arrika	8	6	6
+The Tuskraider	8	7	7
+Spectral Matron	8	6	6
+Riptide Rex	8	6	4
+Brightsteel Formation	9	9	9
+The Dreadway	9	8	8
+Commander Ledros	9	9	6
+Kadregrin the Infernal	9	9	6
+Minah Swiftfoot	9	7	6
+Corina Veraza	9	6	6
+She Who Wanders	10	10	10
+Arbiter of the Peak	10	6	6
+Plaza Guardian	10	6	6
+Scuttlegeist	10	5	5
+Sandstone Chimera	12	6	6
