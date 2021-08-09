@@ -76,7 +76,7 @@ def main():
     health = [card.health for card in card_list]
     total = [card.power + card.health for card in card_list]
     size = 140
-    plt.scatter(x_axis, total, size, c="b", alpha=0.04)
+    plt.scatter(x_axis, total, size, c="black", alpha=0.04)
     plt.xlabel("Mana-Cost")
     plt.ylabel("Total Stats")
     plt.show()
