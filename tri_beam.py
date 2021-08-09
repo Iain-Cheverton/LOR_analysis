@@ -71,6 +71,24 @@ def main():
     plt.ylabel("Stats")
     plt.show()
 
+    x_axis = [card.mana_cost for card in card_list]
+    power = [card.power for card in card_list]
+    health = [card.health for card in card_list]
+    total = [card.power + card.health for card in card_list]
+    size = 140
+    plt.scatter(x_axis, total, size, c="b", alpha=0.04)
+    plt.xlabel("Mana-Cost")
+    plt.ylabel("Total Stats")
+    plt.show()
+    plt.scatter(x_axis, power, size, c="orange", alpha=0.04)
+    plt.xlabel("Mana-Cost")
+    plt.ylabel("Power")
+    plt.show()
+    plt.scatter(x_axis, health, size, c="g", alpha=0.04)
+    plt.xlabel("Mana-Cost")
+    plt.ylabel("Health")
+    plt.show()
+
 
 if __name__ == "__main__":
     main()
